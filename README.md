@@ -1,0 +1,1 @@
+# Set-the-VSAN.DefaultHostDecommissionMode-on-all-hosts-in-a-cluster
